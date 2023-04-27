@@ -6,6 +6,7 @@ What will we learn in this mini project?
 * Flex-Box
 * Condition
 * Validation
+* Controlled-Component
 
 GIF:
 ![Get-Input-Value-With-React-master](https://user-images.githubusercontent.com/92850417/234770998-1627146b-10fb-4bc8-b900-08f8eae33456.gif)
